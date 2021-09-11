@@ -20,7 +20,7 @@
   </a>
   
   <!-- FACEBOOK -->
-  <a href = "https://www.linkedin.com/in/heris-thesiya-b69059170/">
+  <a href = "https://www.facebook.com/heris.thesiya">
     <img src="https://img.shields.io/badge/FACEBOOK-fb-blue?&style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 
