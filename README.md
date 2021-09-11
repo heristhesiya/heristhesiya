@@ -5,7 +5,7 @@
 
 - 🦁 You can call me **[PRABHU](https://www.instagram.com/heris_patel/)**
 <!-- - :office: I am a developer at **[Autoglass](https://www.autoglass.com.br/)** -->
-- :green_heart: I am a full stack web developer **[(MERN Stack)](https://www.mongodb.com/mern-stack)
+- :green_heart: I am a full stack web developer [(MERN Stack)](https://www.mongodb.com/mern-stack)
 - :books: I am currently working on [REACT.js](https://reactjs.org/)
 - 🎓 I am Ex-GITian
 - 🖥️ My **[Portfolio](http://heristhesiya.rf.gd/)**
