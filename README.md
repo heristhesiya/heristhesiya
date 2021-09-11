@@ -30,7 +30,7 @@
   </a>
 
   <a href="https://twitter.com/Heristhesiya1">
-    <img height="30em" src="https://img.shields.io/twitter/url?color=blue&label=twitter&style=social&url=https%3A%2F%2Ftwitter.com%2FHeristhesiya1">
+    <img height="30em" src="https://img.shields.io/twitter/url?color=blue&label=twitter&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2FHeristhesiya1">
   </a>
   
   <!-- GMAIL -->
