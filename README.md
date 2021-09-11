@@ -19,9 +19,9 @@
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   
-  <!-- MICROSOFT LEARN -->
-  <a href = "https://docs.microsoft.com/pt-br/users/leonardev/">
-    <img src="https://img.shields.io/badge/linkdin-in-9cf?&style=for-the-badge&logo=linkedin&logoColor=white">
+  <!-- FACEBOOK -->
+  <a href = "https://www.linkedin.com/in/heris-thesiya-b69059170/">
+    <img src="https://img.shields.io/badge/facebook-in-9cf?&style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 
   <!-- INSTAGRAM -->
