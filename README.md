@@ -21,7 +21,7 @@
   
   <!-- FACEBOOK -->
   <a href = "https://www.facebook.com/heris.thesiya">
-    <img src="https://img.shields.io/badge/FACEBOOK-fb-blue?&style=for-the-badge&logo=linkedin&logoColor=white">
+    <img src="https://img.shields.io/badge/FACEBOOK?&style=for-the-badge&logo=facebook&logoColor=white">
   </a>
 
   <!-- INSTAGRAM -->
