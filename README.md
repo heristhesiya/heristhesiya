@@ -29,14 +29,11 @@
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 
-  <!-- STEAM -->
-  <a href="https://steamcommunity.com/id/maujevski">
-    <img height="30em" src="https://img.shields.io/badge/Steam-000000?&style=for-the-badge&logo=steam&logoColor=white">
-  </a>
+
   
     <!-- Twitter -->
   <a href="https://twitter.com/Heristhesiya1">
-    <img height="30em" src="https://img.shields.io/twitter/url?color=blue&label=twitter&style=social">
+    <img height="30em" src="https://img.shields.io/twitter/url?color=blue&label=twitter&style=social&url=https%3A%2F%2Ftwitter.com%2FHeristhesiya1">
   </a>
   
   <!-- GMAIL -->
