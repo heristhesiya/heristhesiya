@@ -71,26 +71,16 @@ while (dev.isInFrontOfComputer()) {
 
 
   <p align="center">
-  <!-- GIT -->
-  <a href="https://git-scm.com/">
-    <img src="https://img.shields.io/badge/git-3f4854?style=for-the-badge&logo=git&logoColor=E95420"/>
-  </a>
-
-  <!-- MARKDOWN -->
-  <a href="https://daringfireball.net/projects/markdown/">
-    <img src="https://img.shields.io/badge/markdown-3f4854?style=for-the-badge&logo=markdown&logoColor=white"/>
-  </a>
-
   <!-- HTML -->
   <a href="https://www.w3.org/html/">
     <img src="https://img.shields.io/badge/HTML5-3f4854?style=for-the-badge&logo=html5&logoColor=E34F26"/>
   </a> 
-
+  
   <!-- CSS -->
   <a href="https://www.w3schools.com/css/">
     <img src="https://img.shields.io/badge/CSS3-3f4854?style=for-the-badge&logo=css3&logoColor=1572B6"/>
   </a> 
-
+  
   <!-- BOOTSTRAP -->
   <a href="https://getbootstrap.com/">
     <img src="https://img.shields.io/badge/Bootstrap-3f4854?style=for-the-badge&logo=bootstrap&logoColor=563D7C"/>
@@ -100,22 +90,14 @@ while (dev.isInFrontOfComputer()) {
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
     <img src="https://img.shields.io/badge/JavaScript-3f4854?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
   </a>
-
-  <!-- JEST -->
-  <a href ="https://jestjs.io/">
-    <img src="https://img.shields.io/badge/Jest-3f4854?style=for-the-badge&logo=jest&logoColor=933E56"/>
-  </a>
-
-  <!-- REACT -->
+  
+    <!-- REACT -->
   <a href="https://reactjs.org/">
     <img src="https://img.shields.io/badge/React-3f4854?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   </a>
-
-  <!-- TESTING LIBRARY -->
-  <a href="https://testing-library.com/">
-    <img src="https://img.shields.io/badge/Testing_Library-3f4854?style=for-the-badge&logo=testing-library&logoColor=EE493A"/>
-  </a>
-
+  
+ 
+  
   <!-- REDUX -->
   <a href="https://redux.js.org/">
     <img src="https://img.shields.io/badge/Redux-3f4854?style=for-the-badge&logo=redux&logoColor=7856BC"/>
@@ -130,17 +112,9 @@ while (dev.isInFrontOfComputer()) {
   <a href="https://expressjs.com/">
     <img src="https://img.shields.io/badge/express.js-3f4854?&style=for-the-badge&logo=express&logoColor=white"/>
   </a>
+  
 
-  <!-- C# -->
-  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/">
-    <img src="https://img.shields.io/badge/c_sharp-3f4854?&style=for-the-badge&logo=c-sharp&logoColor=9A4993"/>
-  </a>
-
-  <!-- .NET -->
-  <a href="https://dotnet.microsoft.com/">
-    <img src="https://img.shields.io/badge/.NET-3f4854?&style=for-the-badge&logo=.NET&logoColor=5027D5"/>
-  </a>
-
+  
   <!-- SQL ORACLE -->
   <a href="https://www.oracle.com/br/database/">
     <img src="https://img.shields.io/badge/pl/sql-3f4854?style=for-the-badge&logo=oracle&logoColor=9A4133"/>
@@ -150,19 +124,21 @@ while (dev.isInFrontOfComputer()) {
   <a href="https://www.mongodb.com/">
     <img src="https://img.shields.io/badge/NoSQL-3f4854?style=for-the-badge&logo=mongodb&logoColor=4A8D42"/>
   </a>
-
-  <!-- SCRUM -->
-  <a href="https://www.scrum.org/">
-    <img src="https://img.shields.io/badge/Scrum-3f4854?style=for-the-badge&logo=clockify&logoColor=3A7C9A"/>
+  
+     <!-- GIT -->
+  <a href="https://git-scm.com/">
+    <img src="https://img.shields.io/badge/git-3f4854?style=for-the-badge&logo=git&logoColor=E95420"/>
   </a>
 
-  <!-- KANBAN -->
-  <a href="https://www.scrum.org/resources/kanban-guide-scrum-teams">
-    <img src="https://img.shields.io/badge/Kanban-3f4854?style=for-the-badge&logo=pinboard&logoColor=DD0000"/>
+    
+  <!-- TESTING LIBRARY -->
+  <a href="https://testing-library.com/">
+    <img src="https://img.shields.io/badge/Testing_Library-3f4854?style=for-the-badge&logo=testing-library&logoColor=EE493A"/>
   </a>
   
 
-  <!-- LINUX -->
+  
+    <!-- LINUX -->
   <a href="https://www.linux.org/">
      <img src="https://img.shields.io/badge/Linux-3f4854?style=for-the-badge&logo=linux&logoColor=000000"/>
   </a>
@@ -171,6 +147,8 @@ while (dev.isInFrontOfComputer()) {
   <a href="https://www.microsoft.com/pt-br/windows">
      <img src="https://img.shields.io/badge/Windows-3f4854?style=for-the-badge&logo=windows&logoColor=0078D4"/>
   </a>
+
+
 </p>
 
 <br>
