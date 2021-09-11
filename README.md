@@ -120,7 +120,6 @@ while (dev.isInFrontOfComputer()) {
     <img src="https://img.shields.io/badge/NoSQL-3f4854?style=for-the-badge&logo=mongodb&logoColor=4A8D42"/>
   </a>
   
-     <!-- GIT -->
   <a href="https://git-scm.com/">
     <img src="https://img.shields.io/badge/git-3f4854?style=for-the-badge&logo=git&logoColor=E95420"/>
   </a>
@@ -132,7 +131,6 @@ while (dev.isInFrontOfComputer()) {
   
 
   
-    <!-- LINUX -->
   <a href="https://www.linux.org/">
      <img src="https://img.shields.io/badge/Linux-3f4854?style=for-the-badge&logo=linux&logoColor=000000"/>
   </a>
