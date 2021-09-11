@@ -58,7 +58,7 @@ while (dev.isInFrontOfComputer()) {
 <!-- SPOTIFY -->
 <div align="center">
   <a href="https://open.spotify.com/user/31lbxglll3vm6qzm2rrm7w6yelnq">
-    <img height="150px" src="https://spotify-github-profile.vercel.app/api/view?uid=31lbxglll3vm6qzm2rrm7w6yelnq&cover_image=true&theme=novatorem">
+    <img height="150px" src="https://spotify-github-profile.vercel.app/api/view?uid=leonardomajevski&cover_image=true&theme=novatorem">
     <img alt="LISTENING NOW" height="130px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif">
     <img height="130px" src="https://media.giphy.com/media/ZZfJJBF8M1F1UYCU0n/source.gif">
   </a>
