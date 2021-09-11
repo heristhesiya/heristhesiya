@@ -1,5 +1,3 @@
-<img align="right" alt="GIF" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/source.gif" width=250 />
-<img align="right" alt="GIF" src="https://media.giphy.com/media/hrRJ41JB2zlgZiYcCw/giphy-downsized-large.gif" width=300 height=200 />
 <img align="right" alt="GIF" src="https://media.giphy.com/media/PiQejEf31116URju4V/giphy.gif" width=320 height=250 />
 
 <h2> Hello there, fellow <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎r/> <img src="https://github.com/LeonarDev/LeonarDev/blob/main/Hi.gif" width="25"> </h2>
