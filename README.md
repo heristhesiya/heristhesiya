@@ -91,7 +91,6 @@ while (dev.isInFrontOfComputer()) {
     <img src="https://img.shields.io/badge/JavaScript-3f4854?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
   </a>
   
-    <!-- REACT -->
   <a href="https://reactjs.org/">
     <img src="https://img.shields.io/badge/React-3f4854?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   </a>
