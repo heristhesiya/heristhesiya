@@ -154,7 +154,7 @@ while (dev.isInFrontOfComputer()) {
   
 <!-- SNAKE COMMITS -->
 <p align="center">
-  <img src="https://github.com/heristhesiya/leonardev/blob/output/github-contribution-grid-snake.svg">  
+  <img src="https://github.com/heristhesiya/blob/output/github-contribution-grid-snake.svg">  
 </p>
 
 ##
