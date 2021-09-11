@@ -15,11 +15,11 @@
 
 <div align="center">
   <!-- LINKEDIN -->
-  <a href="https://www.linkedin.com/in/leonardomajevski/"> 
+  <a href="https://www.linkedin.com/in/heris-thesiya-b69059170/"> 
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   
-  <a href = "mailto:leonardo.majevski@gmail.com">
+  <a href = "herispatel0@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
   
@@ -44,7 +44,7 @@
 
 <!-- FUNNY CODE -->
 ```js
-Developer dev = new Developer("LeonarDev");
+Developer dev = new Developer("HERIS");
 
 while (dev.isInFrontOfComputer()) {
   dev.openChromeBrowser();
