@@ -6,11 +6,11 @@
 - 🦁 You can call me **[PRABHU](https://www.instagram.com/heris_patel/)**
 <!-- - :office: I am a developer at **[Autoglass](https://www.autoglass.com.br/)** -->
 - :green_heart: I am a full stack web developer **[(MERN Stack)](https://www.mongodb.com/mern-stack)
-- :books: I am currently working on [REACT.js](https://reactjs.org/) ** and **[.NET](https://docs.microsoft.com/pt-br/users/leonardev/)**
-- 🎓 Some **[certifications](https://cursos.alura.com.br/user/leonardo-rnascimento/fullCertificate/eea2a0fa87148f478d45fdc0efdab383)**
-- 🖥️ My **[personal page](https://leonardev.github.io./)**
+- :books: I am currently working on [REACT.js](https://reactjs.org/)
+- 🎓 I am Ex-GITian
+- 🖥️ My **[Portfolio](http://heristhesiya.rf.gd/)**
 - :suspect: Fun fact: **I have a bad face but I am a nice guy**
-- 🧠 Long story short: 🥑 **Eat** 💻 **Code** 💪🏽 **Train** ♻️ **Repeat**
+- 🧠 Long story short: 🥑 **Eat** 💻 **Code** 💪🏽 **Test** ♻️ **Repeat**
 - 🔥 Best quote: **"Talk is cheap. Show me the code."** - **[Linus Torvalds](https://github.com/torvalds)**
 
 <div align="center">
@@ -32,6 +32,11 @@
   <!-- STEAM -->
   <a href="https://steamcommunity.com/id/maujevski">
     <img height="30em" src="https://img.shields.io/badge/Steam-000000?&style=for-the-badge&logo=steam&logoColor=white">
+  </a>
+  
+    <!-- Twitter -->
+  <a href="https://twitter.com/Heristhesiya1">
+    <img height="30em" src="https://img.shields.io/twitter/url?color=blue&label=twitter&style=social">
   </a>
   
   <!-- GMAIL -->
