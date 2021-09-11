@@ -96,8 +96,6 @@ while (dev.isInFrontOfComputer()) {
     <img src="https://img.shields.io/badge/React-3f4854?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   </a>
   
- 
-  
   <!-- REDUX -->
   <a href="https://redux.js.org/">
     <img src="https://img.shields.io/badge/Redux-3f4854?style=for-the-badge&logo=redux&logoColor=7856BC"/>
@@ -113,8 +111,6 @@ while (dev.isInFrontOfComputer()) {
     <img src="https://img.shields.io/badge/express.js-3f4854?&style=for-the-badge&logo=express&logoColor=white"/>
   </a>
   
-
-  
   <!-- SQL ORACLE -->
   <a href="https://www.oracle.com/br/database/">
     <img src="https://img.shields.io/badge/pl/sql-3f4854?style=for-the-badge&logo=oracle&logoColor=9A4133"/>
@@ -129,7 +125,6 @@ while (dev.isInFrontOfComputer()) {
   <a href="https://git-scm.com/">
     <img src="https://img.shields.io/badge/git-3f4854?style=for-the-badge&logo=git&logoColor=E95420"/>
   </a>
-
     
   <!-- TESTING LIBRARY -->
   <a href="https://testing-library.com/">
