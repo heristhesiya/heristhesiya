@@ -68,22 +68,9 @@ while (dev.isInFrontOfComputer()) {
 
 <br>
   
-<p align="center">
-  <!-- LINUX -->
-  <a href="https://www.linux.org/">
-     <img src="https://img.shields.io/badge/Linux-3f4854?style=for-the-badge&logo=linux&logoColor=000000"/>
-  </a>
-  
-  <!-- Windows -->
-  <a href="https://www.microsoft.com/pt-br/windows">
-     <img src="https://img.shields.io/badge/Windows-3f4854?style=for-the-badge&logo=windows&logoColor=0078D4"/>
-  </a>
 
-  <!-- SHELL -->
-  <a href="https://en.wikipedia.org/wiki/Shell_(computing)">
-    <img src="https://img.shields.io/badge/Shell_Script-3f4854?style=for-the-badge&logo=windows-terminal&logoColor=white"/>
-  </a>
 
+  <p align="center">
   <!-- GIT -->
   <a href="https://git-scm.com/">
     <img src="https://img.shields.io/badge/git-3f4854?style=for-the-badge&logo=git&logoColor=E95420"/>
@@ -172,6 +159,17 @@ while (dev.isInFrontOfComputer()) {
   <!-- KANBAN -->
   <a href="https://www.scrum.org/resources/kanban-guide-scrum-teams">
     <img src="https://img.shields.io/badge/Kanban-3f4854?style=for-the-badge&logo=pinboard&logoColor=DD0000"/>
+  </a>
+  
+
+  <!-- LINUX -->
+  <a href="https://www.linux.org/">
+     <img src="https://img.shields.io/badge/Linux-3f4854?style=for-the-badge&logo=linux&logoColor=000000"/>
+  </a>
+  
+  <!-- Windows -->
+  <a href="https://www.microsoft.com/pt-br/windows">
+     <img src="https://img.shields.io/badge/Windows-3f4854?style=for-the-badge&logo=windows&logoColor=0078D4"/>
   </a>
 </p>
 
