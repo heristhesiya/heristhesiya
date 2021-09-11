@@ -21,11 +21,11 @@
   
   <!-- MICROSOFT LEARN -->
   <a href = "https://docs.microsoft.com/pt-br/users/leonardev/">
-    <img src="https://img.shields.io/badge/microsoft_Profile-0078D4?style=for-the-badge&logo=microsoft&logoColor=white">
+    <img src="https://img.shields.io/badge/linkdin-in-9cf?&style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 
   <!-- INSTAGRAM -->
-  <a href="https://www.instagram.com/maujevski/">
+  <a href="https://www.instagram.com/heris_patel/">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 
